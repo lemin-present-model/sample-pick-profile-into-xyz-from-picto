@@ -7,3 +7,24 @@
 ### sample trainer for model
 
 https://github.com/user-attachments/assets/0567109b-ef0f-4e8b-851d-d2bd9639d0bb
+
+
+
+
+
+
+#### Workin process \
+
+<img width="1009" height="559" alt="Screenshot from 2026-07-06 15-29-16" src="https://github.com/user-attachments/assets/7ac6810a-2a79-41ca-b907-e40d6e2d49db" />
+<img width="1911" height="1415" alt="sample-pick-defined" src="https://github.com/user-attachments/assets/bb196369-0643-423f-8336-46a0a799f16c" />
+
+
+
+
+https://github.com/user-attachments/assets/90cb313a-e554-46f5-8739-ab37a6246c5d
+
+https://github.com/user-attachments/assets/64adeefc-f6e9-4bfe-ac31-cb1b71f66725
+
+
+
+
