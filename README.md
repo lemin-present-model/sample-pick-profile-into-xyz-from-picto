@@ -25,6 +25,8 @@ https://github.com/user-attachments/assets/90cb313a-e554-46f5-8739-ab37a6246c5d
 
 https://github.com/user-attachments/assets/64adeefc-f6e9-4bfe-ac31-cb1b71f66725
 
+CAKE 0xD7350dc4Ee8Fea29A0CcE32552425296662D99aB
+TRUMP 1cAvbGZKnGGxsRV4m2u1YvnVCp5MATA8fKRAjG1jsEQ
 
 
-
+https://www.kickstarter.com/projects/dc-/917223301
