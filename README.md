@@ -85,6 +85,8 @@ https://github.com/user-attachments/assets/90ad2caf-73e2-441b-890b-0f87f76281ed
 
 
 <img width="1104" height="845" alt="image" src="https://github.com/user-attachments/assets/527ccc4b-f10e-4e4a-98ab-ecaa506d17fb" />
+rect between computd immediately \ i wanted to compute it at latest step \ it allow\ choose rect-spawner and do not pick rect between \ 12 days before bday of my uncle \ 
+<img width="1109" height="637" alt="image" src="https://github.com/user-attachments/assets/2485ae34-2cf8-4d3a-b723-f20f2571ec7c" />
 
 
 
