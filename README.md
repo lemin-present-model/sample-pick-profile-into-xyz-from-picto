@@ -84,7 +84,8 @@ workin \ choosin pk startin\ closin
 https://github.com/user-attachments/assets/90ad2caf-73e2-441b-890b-0f87f76281ed
 
 
-<img width="1104" height="845" alt="image" src="https://github.com/user-attachments/assets/27ec3514-3bb2-43ad-9c43-85931badab99" />
+<img width="1104" height="845" alt="image" src="https://github.com/user-attachments/assets/527ccc4b-f10e-4e4a-98ab-ecaa506d17fb" />
+
 
 
 
