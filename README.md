@@ -92,3 +92,57 @@ rect between computd immediately \ i wanted to compute it at latest step \ it al
 
 
 
+
+
+
+
+
+
+
+
+
+<img width="451" height="475" alt="image" src="https://github.com/user-attachments/assets/4f6eac46-82ef-47ea-b802-23eb454c3f0a" />
+
+
+
+
+
+
+
+<img width="488" height="270" alt="image" src="https://github.com/user-attachments/assets/e8db7b6e-4540-448e-9410-319e5a0a1f30" />
+
+[Math intro.odt](https://github.com/user-attachments/files/29939933/Math.intro.odt)
+
+[sample-pick-crypto-intro.odt](https://github.com/user-attachments/files/29939932/sample-pick-crypto-intro.odt)
+
+[sample-pick-loop-intro.odt](https://github.com/user-attachments/files/29939931/sample-pick-loop-intro.odt)
+
+[sample-pick-weapon-shift-intro.odt](https://github.com/user-attachments/files/29939930/sample-pick-weapon-shift-intro.odt)
+
+[sample-pick-rally-walkin-intro.odt](https://github.com/user-attachments/files/29939929/sample-pick-rally-walkin-intro.odt)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
