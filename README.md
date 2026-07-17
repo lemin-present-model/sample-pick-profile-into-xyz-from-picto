@@ -125,6 +125,7 @@ rect between computd immediately \ i wanted to compute it at latest step \ it al
 
 
 
+<img width="774" height="324" alt="image" src="https://github.com/user-attachments/assets/f3a6723f-4fe9-46b8-8de8-558dafebb9c8" />
 
 
 
