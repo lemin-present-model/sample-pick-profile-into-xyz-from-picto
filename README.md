@@ -147,3 +147,46 @@ rect between computd immediately \ i wanted to compute it at latest step \ it al
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="930" height="556" alt="sample-pick-dragon-and-f-into-pass" src="https://github.com/user-attachments/assets/c5f84cae-302d-4dfe-a3a6-fcfdec06f59d" />
+
+
+
+https://github.com/user-attachments/assets/d7529ea1-9db7-4f48-8241-f6730a31d173
+
+
+
+
+
+https://github.com/user-attachments/assets/8da85180-7edc-4b5b-9361-552076db1c6c
+
+
+
+<img width="691" height="517" alt="sample-pick-rally-car-into-pass-through-viewport" src="https://github.com/user-attachments/assets/7be565dc-92f5-49e5-907e-e14d05b23cb2" />
+
+
+
+
